@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.niharozon_hub.twa",
-    "sha256_cert_fingerprints": ["B3:5E:2B:19:FC:14:EC:A2:37:18:41:29:57:EA:70:AC:58:1A:5B:9B:F0:26:87:9E:37:70:9A:90:7E:F8:37:42"]
+    "sha256_cert_fingerprints": [
+      "B3:5E:2B:19:FC:14:EC:A2:37:18:41:29:57:EA:70:AC:58:1A:5B:9B:F0:26:87:9E:37:70:9A:90:7E:F8:37:42",
+      "A0:B1:32:92:99:53:2C:B7:44:99:CE:0A:5E:5D:46:4D:40:07:64:3A:49:51:B9:CE:2B:AC:6B:5A:3E:DA:2C:60"
+    ]
   }
 }]
